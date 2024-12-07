@@ -40,7 +40,9 @@
 
 ---
 
-## Índice
+<details>
+
+<summary><h2>Índice</h2></summary>
 
 - [Título](#DESAFIO-DE-LÓGICA-DO-PROJETO-SORTEADOR-DE-NÚMEROS)
 - [Introdução](#Introdução)
@@ -50,6 +52,8 @@
 - [Exemplo de código encontrado no repositório](#Exemplo-de-código-encontrado-no-repositório)
 - [Desenvolvedor](#Desenvolvedor)
 - [Contatos e redes sociais](#CONTATOS-E-REDES-SOCIAIS)
+
+</details>
 
 ---
 
