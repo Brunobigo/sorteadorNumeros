@@ -63,7 +63,7 @@ Bem-vindo ao repositório dedicado ao desafio de lógica do curso [Lógica de pr
 
 Este repositório contém a resolução de problemas propostos durante o curso, abordando conceitos fundamentais de lógica de programação. Além de apresentar soluções otimizadas e comentadas, este projeto serve como parte do meu portfólio, demonstrando habilidades práticas em resolver desafios de forma eficiente e estruturada.
 
-- [Clique aqui para ser redirecionado ao site da aplicação](https://jogo-do-numero-secreto-js-zeta.vercel.app/)
+- [👾 **Clique aqui para ser redirecionado ao site da aplicação** 👾](https://sorteador-numeros-black.vercel.app/)
 
 **Objetivo**
 - Consolidar conhecimentos adquiridos no curso.
